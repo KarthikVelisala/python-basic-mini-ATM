@@ -1,4 +1,4 @@
-# guess game by python
+# guess game by python basic
 
 import random as r
 
