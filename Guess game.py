@@ -1,3 +1,5 @@
+# guess game by python
+
 import random as r
 
 random_number = r.randint(1, 100)
