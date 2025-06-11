@@ -6,7 +6,6 @@ menu = {
     "Coffee": 50,
     "Pasta": 80,
 }
-
 import time
 
 print("Welcome to our restaurant")
